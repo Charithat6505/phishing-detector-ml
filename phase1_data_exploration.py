@@ -379,7 +379,7 @@ print(f"   ✓ dataset_analysis.png (visualizations)")
 # CREATING VISUALIZATIONS
 # ============================================================
 # ✅ Visualization saved as 'dataset_analysis.png'
-#    📊 Open this file in VS Code to view the charts!
+# 📊 Open this file in VS Code to view the charts!
 
 # ============================================================
 # DATA CLEANING RECOMMENDATIONS
